@@ -21,7 +21,7 @@ python main.py -m bisection -p Y -e "[-23.4824832, 24.161472, 15.85272, -22.4, 5
 ```
 
 <br />
-다음 논문에서 참고되었습니다.  
+다음 논문을 참고합니다.  
 
 Parallel Hybrid Algorithm of Bisection and Newton-Raphson Methods to Find Non-Linear Equations Roots – [Khalid Ali Hussein1 ,Abed Ali H. Altaee2 ,Haider K. Hoomod3]  
 
